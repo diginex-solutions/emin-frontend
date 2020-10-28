@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.jtawih",
+      "sha256_cert_fingerprints": ["81:E9:07:49:15:83:E9:F8:EF:7B:14:77:EC:1B:A4:6F:DC:41:7C:1E:7D:97:36:DD:03:B8:B4:00:28:18:9A:5E"]
+    }
+  }
+]
